@@ -1,2 +1,2 @@
 # IT-Projects-and-Solutions-Portfolio
-IT portfolio projects and solutions
+IT Portfolio - Projects and Solutions
