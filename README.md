@@ -1,20 +1,21 @@
 # # Hi, I'm Don-Darriel 👋  
 
-I’m an experienced and seasoned IT professional/specialist passionate about technology, innovation, enterprise solutions architectures, cloud platforms, web development, problem-solving, and building meaningful digital solutions. I enjoy learning new tools, improving system efficiency, and creating clean, functional projects.
+An experienced and seasoned IT professional/specialist passionate about technology, innovation, enterprise solutions architectures, cloud platforms, web development, problem-solving, and building meaningful digital solutions. I enjoy learning new tools, improving system efficiency, and creating clean, functional projects.
 
 My background spans across diverse industries, including insurance/finance, retail, e-commerce and government, where I have successfully led large-scale digital transformation initiatives, infrastructure upgrades and enterprise system integrations.
 
 Throughout my career, I’ve developed a strong foundation in IT strategy, cloud computing, cybersecurity, enterprise architectures and project management. I’m passionate about leveraging technology to solve complex business challenges, optimize processes and deliver measurable results. My experience in both technical and leadership roles allows me to bridge the gap between business objectives and technical execution effectively.
 
 ## 🔧 Tech Skills
--IT Risk Management and Business Continuity, Artificial intelligence, Enterpise Architectural Frameworks, Serch Engine Optimization, Google Analytics, Cloud Platforms, Web and Application Development, Information Security, IT Service Management, E-commerce and SEO Optimization, Systems Integration, Design and Modelling, Incident and Problem Solutions, CRM Solutions.
+-IT Risk Management and Business Continuity, Artificial intelligence, Enterpise Architectural Frameworks, Search Engine Optimization, Google Analytics, Cloud Platforms, Web and Application Development, Information Security, IT Service Management, E-commerce and SEO Optimization, Systems Integration, Design and Modelling, Incident and Problem Solutions, CRM Solutions.
 
-- Interpersonal Skills: Analytical problem solver, Corporate Strategy Formulation, Team Management, Communication (Written, Verbal, Presentation), Creative Problem Solving, Business Intelligence , Customer Relations Management, Proactive Results Orientation, Report Writing, Decision Making, User Training and Mentorship, People and Conflict Management,
+- Interpersonal Skills: Analytical and creative problem solver, Corporate Strategy Formulation, Team Management, Communication (Written, Verbal, Presentation), Business Intelligence , Customer Relations Management, Proactive Results Orientation, Report Writing, Decision Making, User Training and Mentorship, People and Conflict Management.
   
-- Languages: PowerShell, SQL, MySQL, JavaScript, HTML, CSS, 
-- Applications and Tools: Virtualization applications, Server / End-user and Cloud platforms, WordPress, Productivity softwares, Saas and Cloud applications, Networks applications, HubSpot, Okta,  Slack, Gsuite, GA4, Survey Tools, IT Ticketing applications , Git, GitHub.
+- Applications and Tools: Virtualization applications, Server / End-user and Cloud platforms, WordPress, Productivity softwares, Saas and Cloud applications, Networks applications, HubSpot, Okta,  Slack, Gsuite, GA4, Survey Tools, IT Ticketing applications, Social media applications, GitHub.
    
-- Interests: Systems support, Solutions architectures, server infrastructures, project management, cloud computing, automation, web development, Problem Solving, Machine Learning, Artificial intelligence and Technological Innovations.
+- Interests: Systems support, Solutions architectures, Server infrastructures, project management, Cloud computing, Automation, Web development, Problem solving, Machine learning, Artificial intelligence and Technological Innovations.
+
+- Languages: Scripting, PowerShell, Bash, PHP, SQL, MySQL, JavaScript, HTML, CSS.
 
 ## 🚀 Featured Projects 
 - **Gauteng Innovation Observatory Migration Project [2025]** – (Gauteng Department of Economic Development - GDED & North West University - NWU): GIO System Migration & AI Integration.  
