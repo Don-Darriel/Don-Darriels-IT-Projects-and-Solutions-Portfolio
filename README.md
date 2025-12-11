@@ -6,6 +6,16 @@ My background spans across diverse industries, including insurance/finance, reta
 
 Throughout my career, I’ve developed a strong foundation in IT strategy, cloud computing, cybersecurity, enterprise architectures and project management. I’m passionate about leveraging technology to solve complex business challenges, optimize processes and deliver measurable results. My experience in both technical and leadership roles allows me to bridge the gap between business objectives and technical execution effectively.
 
+📊 What I Bring
+
+Strong problem-solving and analytical skills
+
+Experience managing, implementing, supporting IT systems and resolving technical issues
+
+Ability to design, build, and maintain reliable applications
+
+Passion for learning new technologies and improving system performance
+
 ## 🔧 Tech Skills
 - IT Risk Management and Business Continuity, Artificial intelligence, Enterpise Architectural Frameworks, Search Engine Optimization, Google Analytics, Cloud Platforms, Web and Application Development, Information Security, IT Service Management, E-commerce and SEO Optimization, Systems Integration, Design and Modelling, Incident and Problem Solutions, CRM Solutions.
 
