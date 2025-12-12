@@ -1,14 +1,12 @@
 # #  👋 Hi, I'm Don-Darriel - IT Professional/Specialist | Systems | Infrastructures | Enterprise Architectures | Development | Cloud | Support | Tech Enthusiast.
 
-Welcome to my portfolio! I am an IT specialist with experience in designing, developing, and supporting technology solutions that improve efficiency, reliability, and user experience. Passionate about technology, innovation, enterprise solutions, cloud platforms, web development, and building meaningful digital solutions. 
-
-My work spans software development, system administration, cloud technologies, and technical problem-solving. I enjoy learning new tools, improving system efficiency, and creating clean, functional projects.
+Welcome to my portfolio! I am an IT specialist with experience in designing, developing, and supporting technology solutions that improve efficiency, reliability, and user experience. Passionate about technology, innovation, enterprise solutions, cloud platforms, web development, and building meaningful digital solutions. My work spans software development, system administration, cloud technologies, and technical problem-solving. I enjoy learning new tools, improving system efficiency, and creating clean, functional projects.
 
 My portfolio covers diverse industries like insurance/finance, retail, e-commerce, and government environments, where I have driven major technology initiatives, including infrastructure upgrades, enterprise platform integrations, and organisation-wide digital transformation projects.
 
 Throughout my career, I’ve developed a strong foundation in IT strategy, cloud computing, cybersecurity, enterprise architectures and project management. I’m passionate about leveraging technology to solve complex business challenges, optimize processes and deliver measurable results. My experience in both technical and leadership roles allows me to bridge the gap between business objectives and technical execution effectively.
 
-📊 What I Bring
+## 📊 What I Bring
 
 - Strong problem-solving, analytical, and decision-making skills applied in complex IT environments
 
@@ -24,7 +22,20 @@ Throughout my career, I’ve developed a strong foundation in IT strategy, cloud
 
 ## 🔧 Tech Skills
 
-- IT Risk Management and Business Continuity, Artificial intelligence, Enterpise Architectural Frameworks, Search Engine Optimization, Google Analytics, Cloud Platforms, Web and Application Development, Information Security, IT Service Management, E-commerce, Systems Integration, Design and Modelling, Incident and Problem Solutions, CRM Solutions.
+- IT Governance & Management:
+IT Risk Management, Business Continuity Planning, IT Service Management (ITSM), Enterprise Architectural Frameworks, Systems Integration, Incident & Problem Management, Compliance & Regulatory Standards
+
+- Cloud & Infrastructure:
+Server Infrastructures, Cloud Platforms, Virtualization, Network Administration, Data Storage & Backup Solutions, Disaster Recovery
+
+- Development & Analytics:
+Web & Application Development, Database Management, Design & Modelling, CRM Solutions, E-commerce Platforms, Search Engine Optimization (SEO), Google Analytics, Business Intelligence (BI) Tools
+
+- Security & Emerging Technologies:
+Information Security, Cybersecurity Protocols, Vulnerability Assessment, Penetration Testing, Artificial Intelligence (AI), Machine Learning, Automation Tools, DevOps Practices
+
+- Additional IT Skills:
+Project Management Tools, Collaboration Platforms, Scripting & Automation, API Integration, IT Documentation & Reporting
 
 ## 🤝 Interpersonal & Soft Skills:
 
