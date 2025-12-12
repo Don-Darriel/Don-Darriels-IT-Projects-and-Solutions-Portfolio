@@ -21,8 +21,11 @@ Throughout my career, I’ve developed a strong foundation in IT strategy, cloud
 ## 🔧 Tech Skills
 
 - ## IT Governance & Management:
-IT Risk Management, Business Continuity Planning, IT Service Management (ITSM), Enterprise Architectural Frameworks, Systems Integration, Incident & Problem Management, Compliance & Regulatory Standards
+IT Risk Management, Business Continuity Planning, IT Service Management (ITSM), Systems Integration, Incident & Problem Management, Compliance & Regulatory Standards
 
+- ## Enterprise Architectures:
+ Frameworks (Business, Data, Technology & Application architectures), Methodologies (Architecture Development Methods, Requirements Management & Architecture Governance), SOA, Event-driven Architectures
+ 
 - ## Cloud & Infrastructure:
 Server Infrastructures, Cloud Platforms, Virtualization, Network Administration, Data Storage & Backup Solutions, Disaster Recovery
 
@@ -30,10 +33,16 @@ Server Infrastructures, Cloud Platforms, Virtualization, Network Administration,
 Web & Application Development, Database Management, Design & Modelling, CRM Solutions, E-commerce Platforms, Search Engine Optimization (SEO), Google Analytics, Business Intelligence (BI) Tools
 
 - ## Security & Emerging Technologies:
-Information Security, Cybersecurity Protocols, Vulnerability Assessment, Penetration Testing, Artificial Intelligence (AI), Machine Learning, Automation Tools, DevOps Practices
+Information Security, Cybersecurity Protocols, Vulnerability Assessment, Penetration Testing, Artificial Intelligence (AI) / Machine Learning
+
+- ## Project Management:
+PRINCE2, Agile, Waterfall, Project Planning, Risk management 
+
+- ##Custimer Relations Management:
+Customer service, Account management & Stakeholder management 
 
 - ## Additional IT Skills:
-Project Management Tools, Collaboration Platforms, Scripting & Automation, API Integration, IT Documentation & Reporting
+Collaboration Platforms, Scripting & Automation, API Integration, IT Documentation & Reporting
 
 
 ## 🤝 Interpersonal & Soft Skills:
