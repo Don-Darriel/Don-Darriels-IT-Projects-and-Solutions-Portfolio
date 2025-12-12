@@ -92,7 +92,7 @@ Project Management Tools, Collaboration Platforms, Scripting & Automation, API I
   Intune Endpoint & Configuration Management, Symantec Endpoint Management, ManageEngine, VMware Workspace One
   
 - ## Social Media & Digital Management:
-  Google Business, Meta Business suite,  Canva, SEMrush, LinkedIn 
+  Google Business, Meta Business suite, Canva, SEMrush, LinkedIn 
 
    
 ## ✨ Interests: 
