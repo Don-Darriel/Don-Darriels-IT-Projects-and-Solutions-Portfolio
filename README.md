@@ -43,7 +43,21 @@ Project Management Tools, Collaboration Platforms, Scripting & Automation, API I
   
 ## 💼 Applications and Tools:
 
-- Virtualization Platforms, Server & End-User Technologies, Cloud Platforms, Web & CMS Platforms, Productivity Suites, SaaS & Cloud applications, Networks & Security Tools, Identity & Acces Management, Communication & Collaboration Tools, Analytics & Monitoring, Survey & Feedback Tools, IT Ticketing Systems, Automation & Scripting, Backup & Recovery Tools, Endpoint Management, Social Media & Digital Management.
+-  Virtualization Platforms:
+-  Server & End-User Technologies:
+-  Cloud Platforms:
+-  Web & CMS Platforms, Productivity Suites:
+-  SaaS & Cloud applications:
+-  Networks & Security Tools:
+-  Identity & Acces Management:
+-  Communication & Collaboration Tools:
+-  Analytics & Monitoring:
+-  Survey & Feedback Tools:
+-  IT Ticketing Systems:
+-  Automation & Scripting:
+-  Backup & Recovery Tools:
+-  Endpoint Management:
+-  Social Media & Digital Management.
 
    
 ## ✨ Interests: 
