@@ -36,7 +36,7 @@ Web & Application Development, Database Management, Design & Modelling, CRM Solu
 Information Security, Cybersecurity Protocols, Vulnerability Assessment, Penetration Testing, Artificial Intelligence (AI) / Machine Learning
 
 - ## Project Management:
-PRINCE2, Agile, Waterfall, Project Planning, Risk management 
+PRINCE2, Agile, Waterfall, Project Planning, Risk Management
 
 - ## Customer Relations Management:
 Customer Service, Account Management & Stakeholder Management 
