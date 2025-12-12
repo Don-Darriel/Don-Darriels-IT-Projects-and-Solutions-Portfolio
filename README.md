@@ -170,7 +170,7 @@ ManageEngine, VMware Workspace One
   Bergrivier Municipality: Deploy & Implement On-premise Private Cloud (SCCM) solution.
 
 
-## 📜 🎓 Certifications & Education
+## 🎓 Certifications & Education
 
 - TOGAF, PRINCE2, ITIL, 7x Microsoft Certified, VMware (VSP, VTSP), IBM ( 2x Enterprise Storage)
 - CompTIA (A+, Network+, Security+), Huawei (HCIA, 5x HCS), ICT (College Diploma, Advanced Diploma)
