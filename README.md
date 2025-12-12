@@ -1,23 +1,26 @@
-# # Hi, I'm Don-Darriel 👋 
-IT Professional/Specialist | Systems | Development | Cloud | Support - Tech Enthusiast.
+# #  👋 Hi, I'm Don-Darriel - IT Professional/Specialist | Systems | Infrastructures | Enterprise Architectures | Development | Cloud | Support | Tech Enthusiast.
 
-Welcome to my portfolio! I am an IT professional with experience in designing, developing, and supporting technology solutions that improve efficiency, reliability, and user experience. My work spans software development, system administration, cloud technologies, and technical problem-solving. 
+Welcome to my portfolio! I am an IT specialist with experience in designing, developing, and supporting technology solutions that improve efficiency, reliability, and user experience. Passionate about technology, innovation, enterprise solutions, cloud platforms, web development, and building meaningful digital solutions. 
 
-Passionate about technology, innovation, enterprise solutions architectures, cloud platforms, web development, and building meaningful digital solutions. I enjoy learning new tools, improving system efficiency, and creating clean, functional projects.
+My work spans software development, system administration, cloud technologies, and technical problem-solving. I enjoy learning new tools, improving system efficiency, and creating clean, functional projects.
 
-My background spans across diverse industries, including insurance/finance, retail, e-commerce and government, where I have successfully led large-scale digital transformation initiatives, infrastructure upgrades and enterprise system integrations.
+My portfolio covers diverse industries like insurance/finance, retail, e-commerce, and government environments, where I have driven major technology initiatives, including infrastructure upgrades, enterprise platform integrations, and organisation-wide digital transformation projects.
 
 Throughout my career, I’ve developed a strong foundation in IT strategy, cloud computing, cybersecurity, enterprise architectures and project management. I’m passionate about leveraging technology to solve complex business challenges, optimize processes and deliver measurable results. My experience in both technical and leadership roles allows me to bridge the gap between business objectives and technical execution effectively.
 
 📊 What I Bring
 
-Strong problem-solving and analytical skills
+Strong problem-solving, analytical, and decision-making skills applied in complex IT environments
 
-Experience managing, implementing, supporting IT systems and resolving technical issues
+Proven leadership experience overseeing and collaborating with IT teams, managing infrastructure projects, and ensuring operational stability
 
-Ability to design, build, and maintain reliable applications
+Expertise in implementing, supporting, and optimising enterprise IT systems while resolving advanced technical issues
 
-Passion for learning new technologies and improving system performance
+Ability to design, build, secure, and maintain robust, scalable, and high-availability applications and systems
+
+Hands-on experience with system automation, cloud technologies, and performance optimisation
+
+Strong commitment to continuous learning, staying current with emerging technologies, and driving improvements in system reliability and efficiency
 
 ## 🔧 Tech Skills
 
