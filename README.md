@@ -10,17 +10,17 @@ Throughout my career, I’ve developed a strong foundation in IT strategy, cloud
 
 📊 What I Bring
 
-Strong problem-solving, analytical, and decision-making skills applied in complex IT environments
+- Strong problem-solving, analytical, and decision-making skills applied in complex IT environments
 
-Proven leadership experience overseeing and collaborating with IT teams, managing infrastructure projects, and ensuring operational stability
+- Proven leadership experience overseeing and collaborating with IT teams, managing infrastructure projects, and ensuring operational stability
 
-Expertise in implementing, supporting, and optimising enterprise IT systems while resolving advanced technical issues
+- Expertise in implementing, supporting, and optimising enterprise IT systems while resolving advanced technical issues
 
-Ability to design, build, secure, and maintain robust, scalable, and high-availability applications and systems
+- Ability to design, build, secure, and maintain robust, scalable, and high-availability applications and systems
 
-Hands-on experience with system automation, cloud technologies, and performance optimisation
+- Hands-on experience with system automation, cloud technologies, and performance optimisation
 
-Strong commitment to continuous learning, staying current with emerging technologies, and driving improvements in system reliability and efficiency
+- Strong commitment to continuous learning, staying current with emerging technologies, and driving improvements in system reliability and efficiency
 
 ## 🔧 Tech Skills
 
@@ -28,7 +28,7 @@ Strong commitment to continuous learning, staying current with emerging technolo
 
 ## 🤝 Interpersonal & Soft Skills:
 
-Stakeholder management, User support and empathy, Analytical and Creative problem solver, Corporate Strategy Formulation, Cross-functional Collaboration, Technical Communication, Change management communication, Team leadership & mentoring, Incident & crisis communication, Business Intelligence, Customer Relations Management, Communication (Written, Verbal, Presentation), Report Writing, Vendor & Service provider coordination, User Training, documentation, and Mentorship, People/Conflict resolution.
+- Stakeholder management, User support and empathy, Analytical and Creative problem solver, Corporate Strategy Formulation, Cross-functional Collaboration, Technical Communication, Change management communication, Team leadership & mentoring, Incident & crisis communication, Business Intelligence, Customer Relations Management, Communication (Written, Verbal, Presentation), Report Writing, Vendor & Service provider coordination, User Training, documentation, and Mentorship, People/Conflict resolution.
   
 ## 💼 Applications and Tools:
 
