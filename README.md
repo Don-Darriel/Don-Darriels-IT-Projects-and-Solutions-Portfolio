@@ -46,8 +46,8 @@ Project Management Tools, Collaboration Platforms, Scripting & Automation, API I
   
 ## 💼 Applications and Tools:
 
--  ## Virtualization Platforms:
-  Hyper-V, VMware, VirtualBox
+- ## Virtualization Platforms:
+- Hyper-V, VMware, VirtualBox
   
 - ## Server & End-User Technologies:
   Windows Server, Active Directory/Group Policy, Client OSs, macOS Administration, Linux
