@@ -1,9 +1,9 @@
 # #  👋 Hi, I'm Don-Darriel
 ## IT Specialist / Professional - Systems | Enterprise Architectures & Infrastructures | Development | Cloud | Support | Tech Enthusiast.
 
-Welcome to my portfolio! I am an IT specialist with experience in designing, developing, and supporting technology solutions that improve efficiency, reliability, and user experience. Passionate about technology, innovation, enterprise solutions, cloud platforms, web development, and building meaningful digital solutions. My work spans software development, system administration, cloud technologies, and technical problem-solving. I enjoy learning new tools, improving system efficiency, and creating clean, functional projects.
+Welcome to my portfolio! I am an IT specialist with experience in designing, developing, and supporting technology solutions that improve efficiency, reliability, and user experience. I enjoy learning new tools, technical problem solving, improving system efficiency, and creating clean, functional projects.
 
-My portfolio covers diverse industries like insurance/finance, retail, e-commerce, and government environments, where I have driven major technology initiatives, including infrastructure upgrades, enterprise platform integrations, and organisation-wide digital transformation projects.
+My portfolio covers diverse industries like insurance/finance, retail, e-commerce, and government environments, where I have driven major technology initiatives, including infrastructure upgrades, enterprise platform integrations, client satisfaction, and organisation-wide digital transformation projects.
 
 Throughout my career, I’ve developed a strong foundation in IT strategy, cloud computing, cybersecurity, enterprise architectures and project management. I’m passionate about leveraging technology to solve complex business challenges, optimize processes and deliver measurable results. My experience in both technical and leadership roles allows me to bridge the gap between business objectives and technical execution effectively.
 
