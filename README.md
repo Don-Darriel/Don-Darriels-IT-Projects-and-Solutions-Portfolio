@@ -56,43 +56,43 @@ Project Management Tools, Collaboration Platforms, Scripting & Automation, API I
   Azure, AWS, Google Cloud, Huawei Cloud
   
 - ## Web & CMS Platforms:
-  Wordpress, cPanel, Cloudflare, SEO tools
+  Wordpress, WooCommerce, Wix, Shopify, cPanel, Cloudflare, SEO & Analytics tools
 
 - ## Productivity Suites:
-- Office Suites, Microsoft 365, GSuite
+- Microsoft 365, LibreOffice, OpenOffice, Google Workspace, Zoho Office
   
 - ## SaaS & Cloud applications:
-  GA4, HubSpot, Slack, Google Workspace
+  GA4, HubSpot, Slack, Google Workspace, Salesforce
   
-- ## Networks & Security Tools:
-  VPN tools, Wireshark, Fortinet
+- ## Network & Security Tools:
+  VPN tools, Nessus, OpenVAS, Qualys, Solarwinds, Wireshark, Fortinet, pfSense, nNmap
   
 - ## Identity & Acces Management:
-  Azure AD, Okta
+  Microsoft AD, Azure AD, Okta, GCP IAM, AWS IAM
   
 - ## Communication & Collaboration Tools:
-  Teams, Zoom, TeamViewer 
+  Teams, Zoom, TeamViewer, Webex, Slack, Meet, Microsoft 365
   
 - ## Analytics & Monitoring:
-  BI tools, Datadog, Prometheus 
+  PowerBI tools, SEIM tools, Datadog APM, Google Analytics, Pingdom, GTmetrix, Prometheus 
   
 - ## Survey & Feedback Tools:
-  Google Forms, SurveyMonkey, Typeform, JotForm
+  Google Forms, SurveyMonkey, Typeform, JotForm, Microsoft Forms, Zoho survey
   
 - ## IT Ticketing Systems:
-  SCSM, BMC Remedy, ServiceNow, Zendesk, Jira
+  SCSM, BMC Remedy, ServiceNow, Zendesk, Jira, SpiceWorks
 
 - ## Automation & Scripting:
-  PowerShell, CLI scripting, Bash, Scripting 
+  PowerShell, Zapier, CLI scripting, Bash Shell Scripting 
   
 - ## Backup & Recovery Tools:
-  Windows Backup Manager, Veeam, Symantec
+  Windows DPM, Veeam, NetBackup, Acronis, Commvault
   
 -  ## Endpoint Management:
-  Intune / Endpoint Management, Configuration Management 
+  Intune / Endpoint Management, Configuration Management , Stmantec Endpoint Management, ManageEngine, VMware Workspace One
   
 - ## Social Media & Digital Management:
-  Google Business, Meta Business, LinkedIn 
+  Google Business, Meta Business suite,  Canva, SEMrush, LinkedIn 
 
    
 ## ✨ Interests: 
