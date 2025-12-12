@@ -38,8 +38,8 @@ Information Security, Cybersecurity Protocols, Vulnerability Assessment, Penetra
 - ## Project Management:
 PRINCE2, Agile, Waterfall, Project Planning, Risk management 
 
-- ##Custimer Relations Management:
-Customer service, Account management & Stakeholder management 
+- ## Customer Relations Management:
+Customer Service, Account Management & Stakeholder Management 
 
 - ## Additional IT Skills:
 Collaboration Platforms, Scripting & Automation, API Integration, IT Documentation & Reporting
