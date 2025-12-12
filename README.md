@@ -46,35 +46,38 @@ Project Management Tools, Collaboration Platforms, Scripting & Automation, API I
   
 ## 💼 Applications and Tools:
 
--  Virtualization Platforms:
+-  Virtualization Platforms: Hyper-V, VMware, VirtualBox
   
--  Server & End-User Technologies:
+-  Server & End-User Technologies: Windows Server, Active Directory/Group Policy, Client OSs, macOS Administration, Linux
   
--  Cloud Platforms:
+-  Cloud Platforms:Azure, AWS, Google Cloud, Huawei Cloud
   
--  Web & CMS Platforms, Productivity Suites:
+-  Web & CMS Platforms: Wordpress, cPanel, Cloudflare, SEO tools
+
+-  Productivity Suites: Office Suites, Microsoft 365, GSuite
   
--  SaaS & Cloud applications:
+-  SaaS & Cloud applications: GA4, HubSpot, Slack, Google Workspace
   
--  Networks & Security Tools:
+-  Networks & Security Tools: VPN tools, Wireshark, Fortinet
   
--  Identity & Acces Management:
+-  Identity & Acces Management: Azure AD, Okta
   
--  Communication & Collaboration Tools:
+-  Communication & Collaboration Tools: Teams, Zoom, TeamViewer 
   
--  Analytics & Monitoring:
+-  Analytics & Monitoring: BI tools, Datadog, Prometheus 
   
--  Survey & Feedback Tools:
+-  Survey & Feedback Tools: Google Forms, SurveyMonkey, Typeform, JotForm
   
--  IT Ticketing Systems:
+-  IT Ticketing Systems: SCSM, 
+  BMC Remedy, ServiceNow, Zendesk, Jira
+
+-  Automation & Scripting: PowerShell, CLI scripting, Bash, Scripting 
   
--  Automation & Scripting:
+-  Backup & Recovery Tools: Windows Backup Manager, Veeam, Symantec
   
--  Backup & Recovery Tools:
+-  Endpoint Management: Intune / Endpoint Management, Configuration Management 
   
--  Endpoint Management:
-  
--  Social Media & Digital Management.
+-  Social Media & Digital Management: Google Business, Meta Business, LinkedIn 
 
    
 ## ✨ Interests: 
