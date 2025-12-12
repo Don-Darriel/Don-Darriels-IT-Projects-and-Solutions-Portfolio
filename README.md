@@ -46,38 +46,53 @@ Project Management Tools, Collaboration Platforms, Scripting & Automation, API I
   
 ## 💼 Applications and Tools:
 
--  Virtualization Platforms: Hyper-V, VMware, VirtualBox
+-  ## Virtualization Platforms:
+  Hyper-V, VMware, VirtualBox
   
--  Server & End-User Technologies: Windows Server, Active Directory/Group Policy, Client OSs, macOS Administration, Linux
+- ## Server & End-User Technologies:
+  Windows Server, Active Directory/Group Policy, Client OSs, macOS Administration, Linux
   
--  Cloud Platforms:Azure, AWS, Google Cloud, Huawei Cloud
+- ## Cloud Platforms:
+  Azure, AWS, Google Cloud, Huawei Cloud
   
--  Web & CMS Platforms: Wordpress, cPanel, Cloudflare, SEO tools
+- ## Web & CMS Platforms:
+  Wordpress, cPanel, Cloudflare, SEO tools
 
--  Productivity Suites: Office Suites, Microsoft 365, GSuite
+- ## Productivity Suites:
+- Office Suites, Microsoft 365, GSuite
   
--  SaaS & Cloud applications: GA4, HubSpot, Slack, Google Workspace
+- ## SaaS & Cloud applications:
+  GA4, HubSpot, Slack, Google Workspace
   
--  Networks & Security Tools: VPN tools, Wireshark, Fortinet
+- ## Networks & Security Tools:
+  VPN tools, Wireshark, Fortinet
   
--  Identity & Acces Management: Azure AD, Okta
+- ## Identity & Acces Management:
+  Azure AD, Okta
   
--  Communication & Collaboration Tools: Teams, Zoom, TeamViewer 
+- ## Communication & Collaboration Tools:
+  Teams, Zoom, TeamViewer 
   
--  Analytics & Monitoring: BI tools, Datadog, Prometheus 
+- ## Analytics & Monitoring:
+  BI tools, Datadog, Prometheus 
   
--  Survey & Feedback Tools: Google Forms, SurveyMonkey, Typeform, JotForm
+- ## Survey & Feedback Tools:
+  Google Forms, SurveyMonkey, Typeform, JotForm
   
--  IT Ticketing Systems: SCSM, 
-  BMC Remedy, ServiceNow, Zendesk, Jira
+- ## IT Ticketing Systems:
+  SCSM, BMC Remedy, ServiceNow, Zendesk, Jira
 
--  Automation & Scripting: PowerShell, CLI scripting, Bash, Scripting 
+- ## Automation & Scripting:
+  PowerShell, CLI scripting, Bash, Scripting 
   
--  Backup & Recovery Tools: Windows Backup Manager, Veeam, Symantec
+- ## Backup & Recovery Tools:
+  Windows Backup Manager, Veeam, Symantec
   
--  Endpoint Management: Intune / Endpoint Management, Configuration Management 
+-  ## Endpoint Management:
+  Intune / Endpoint Management, Configuration Management 
   
--  Social Media & Digital Management: Google Business, Meta Business, LinkedIn 
+- ## Social Media & Digital Management:
+  Google Business, Meta Business, LinkedIn 
 
    
 ## ✨ Interests: 
