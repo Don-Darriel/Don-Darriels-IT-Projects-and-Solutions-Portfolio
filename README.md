@@ -38,7 +38,10 @@ Project Management Tools, Collaboration Platforms, Scripting & Automation, API I
 
 ## 🤝 Interpersonal & Soft Skills:
 
-- Stakeholder management, User support and empathy, Analytical and Creative problem solver, Corporate Strategy Formulation, Cross-functional Collaboration, Technical Communication, Change management communication, Team leadership & mentoring, Incident & crisis communication, Business Intelligence, Customer Relations Management, Communication (Written, Verbal, Presentation), Report Writing, Vendor & Service provider coordination, User Training, documentation, and Mentorship, People/Conflict resolution.
+- Stakeholder management, User Support and empathy, Analytical and Creative problem solver, Corporate Strategy Formulation
+- Cross-functional Collaboration, Technical Communication, Change management communication, Team leadership & mentoring
+- Incident & Crisis communication, Business Intelligence, Customer Relations Management, Communication (Written, Verbal, Presentation)
+- Report Writing, Vendor & Service provider coordination, User Training, documentation, and Mentorship, People/Conflict resolution.
 
   
 ## 💼 Applications and Tools:
@@ -62,7 +65,11 @@ Project Management Tools, Collaboration Platforms, Scripting & Automation, API I
    
 ## ✨ Interests: 
 
-- Systems support, Solutions architectures, Cybersecurity & threat prevention, IT ticketing systems, Server/Network infrastructure and architecture, Project management, Systems administration & automation, Cloud computing, Virtualisation & Containerisation, IT service management (ITSM) & support innovation, Scripting and automation, Web development, Digital transformation & infrastructure modernisation, AI-driven IT tools & automation platforms, Data analytics & visualisation, Enterprise software deployment & lifecycle management, Monitoring & observability tools, Edge computing & IoT technologies, and Innovations.
+- Systems support, Solutions architectures, Cybersecurity & threat prevention, IT ticketing systems
+- Server/Network infrastructure and architecture, Project management, Systems administration & automation
+- Cloud computing, Virtualisation & Containerisation, IT service management (ITSM) & support innovation
+- Scripting and automation, Web development, Digital transformation & infrastructure modernisation, AI-driven IT tools & automation platforms
+- Data analytics & visualisation, Enterprise software deployment & lifecycle management, Monitoring & observability tools, Edge computing & IoT technologies, and Innovations.
 
 
 ## 💻 Languages: 
