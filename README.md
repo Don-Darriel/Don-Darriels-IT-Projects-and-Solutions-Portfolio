@@ -139,10 +139,11 @@ Project Management Tools, Collaboration Platforms, Scripting & Automation, API I
 
 ## 📜 🎓 Certifications & Education
 
-- TOGAF, PRINCE2, ITIL, 7x Microsoft Certified, VMware (VSP, VTSP), IBM ( 2x Enterprise Storage), CompTIA (A+, Network+, Security+), Huawei (HCIA, 5x HCS)
-ICT (College Diploma, Advanced Diploma)
+- TOGAF, PRINCE2, ITIL, 7x Microsoft Certified, VMware (VSP, VTSP), IBM ( 2x Enterprise Storage)
+- CompTIA (A+, Network+, Security+), Huawei (HCIA, 5x HCS), ICT (College Diploma, Advanced Diploma)
 
 
 ## 📫 Contacts
+
 - Email: darrielm@gmail.com /    darrieltech@outlook.com  
 - LinkedIn: https://www.linkedin.com/in/don-darriel
