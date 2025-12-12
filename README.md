@@ -24,15 +24,23 @@ Strong commitment to continuous learning, staying current with emerging technolo
 
 ## 🔧 Tech Skills
 
-- IT Risk Management and Business Continuity, Artificial intelligence, Enterpise Architectural Frameworks, Search Engine Optimization, Google Analytics, Cloud Platforms, Web and Application Development, Information Security, IT Service Management, E-commerce and SEO Optimization, Systems Integration, Design and Modelling, Incident and Problem Solutions, CRM Solutions.
+- IT Risk Management and Business Continuity, Artificial intelligence, Enterpise Architectural Frameworks, Search Engine Optimization, Google Analytics, Cloud Platforms, Web and Application Development, Information Security, IT Service Management, E-commerce, Systems Integration, Design and Modelling, Incident and Problem Solutions, CRM Solutions.
 
-- Interpersonal Skills: Analytical and creative problem solver, Corporate Strategy Formulation, Team Management, Communication (Written, Verbal, Presentation), Business Intelligence , Customer Relations Management, Proactive Results Orientation, Report Writing, Decision Making, User Training and Mentorship, People and Conflict Management.
+## 🤝 Interpersonal & Soft Skills:
+
+Stakeholder management, User support and empathy, Analytical and Creative problem solver, Corporate Strategy Formulation, Cross-functional Collaboration, Technical Communication, Change management communication, Team leadership & mentoring, Incident & crisis communication, Business Intelligence, Customer Relations Management, Communication (Written, Verbal, Presentation), Report Writing, Vendor & Service provider coordination, User Training, documentation, and Mentorship, People/Conflict resolution.
   
-- Applications and Tools: Virtualization applications, Server / End-user and Cloud platforms, WordPress, Productivity softwares, Saas and Cloud applications, Networks applications, HubSpot, Okta,  Slack, Gsuite, GA4, Survey Tools, IT Ticketing applications, Social media applications, GitHub.
-   
-- Interests: Systems support, Solutions architectures, Server infrastructures, project management, Cloud computing, Automation, Web development, Problem solving, Machine learning, Artificial intelligence and Technological Innovations.
+## 💼 Applications and Tools:
 
-- Languages: Scripting, PowerShell, Bash, PHP, SQL, MySQL, JavaScript, HTML, CSS.
+- Virtualization Platforms, Server & End-User Technologies, Cloud Platforms, Web & CMS Platforms, Productivity Suites, SaaS & Cloud applications, Networks & Security Tools, Identity & Acces Management, Communication & Collaboration Tools, Analytics & Monitoring, Survey & Feedback Tools, IT Ticketing Systems, Automation & Scripting, Backup & Recovery Tools, Endpoint Management, Social Media & Digital Management.
+   
+## ✨ Interests: 
+
+- Systems support, Solutions architectures, Cybersecurity & threat prevention, IT ticketing systems, Server/Network infrastructure and architecture, Project management, Systems administration & automation, Cloud computing, Virtualisation & Containerisation, IT service management (ITSM) & support innovation, Scripting and automation, Web development, Digital transformation & infrastructure modernisation, AI-driven IT tools & automation platforms, Data analytics & visualisation, Enterprise software deployment & lifecycle management, Monitoring & observability tools, Edge computing & IoT technologies, and Innovations.
+
+## 💻 Languages: 
+
+- Scripting, PowerShell, Command Line, Windows Batch, Bash, PHP, SQL, MySQL, XML, JSON, JavaScript, HTML, CSS.
 
 ## 🚀 Featured Projects 
 
@@ -75,6 +83,10 @@ Platform solution.
   
 - **Private Cloud Project [2016]** – Bergrivier Municipality: Deploy & Implement On-premise Private Cloud (SCCM) solution:
 
+## 📜 🎓 Certifications & Education
+
+- TOGAF, PRINCE2, ITIL, 7x Microsoft Certified, VMware (VSP, VTSP), IBM ( 2x Enterprise Storage), CompTIA (A+, Network+, Security+), Huawei (HCIA, 5x HCS)
+ICT (College Diploma, Advanced Diploma)
 
 ## 📫 Contacts
 - Email: darrielm@gmail.com /    darrieltech@outlook.com  
