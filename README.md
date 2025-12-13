@@ -98,7 +98,7 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
   Windows DPM, Veeam, NetBackup, Acronis, Commvault
  
 - ## Endpoint Management: 
-  Intune Endpoint & Configuration Management, Symantec Endpoint Management, ManageEngine, VMware Workspace One
+  Intune Endpoint & Configuration Management, Symantec Endpoint Management, Microsoft Defender for Endpoint, Jamf, ManageEngine, VMware Workspace One
   
 - ## Social Media & Digital Management:
   Google Business, Meta Business suite, Canva, SEMrush, LinkedIn 
