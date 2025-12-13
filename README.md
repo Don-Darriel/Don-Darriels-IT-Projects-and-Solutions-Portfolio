@@ -83,7 +83,7 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
   Teams, Zoom, TeamViewer, Webex, Slack, Meet, Microsoft 365
   
 - ## Analytics & Monitoring:
-  PowerBI tools, SEIM tools, Datadog APM, Google Analytics, Pingdom, GTmetrix, Prometheus 
+  PowerBI tools, SIEM tools, Datadog APM, Google Analytics, Pingdom, GTmetrix, Prometheus 
   
 - ## Survey & Feedback Tools:
   Google Forms, SurveyMonkey, Typeform, JotForm, Microsoft Forms, Zoho survey
