@@ -24,7 +24,7 @@ Throughout my career, I’ve developed a strong foundation in IT strategy, cloud
 IT Risk Management, Business Continuity Planning, IT Service Management (ITSM), Systems Integration, Incident & Problem Management, Compliance & Regulatory Standards
 
 - ## Enterprise Architectures:
- Frameworks (Business, Data, Technology & Application architectures), Methodologies (Architecture Development Methods, Requirements Management & Architecture Governance), SOA, Event-driven Architectures
+ Frameworks (Business, Data, Technology & Application architectures), Methodologies (Architecture Development Methods, Requirements Management & Architecture Governance), Service Oriented Architectures, Event-driven Architectures
  
 - ## Cloud & Infrastructure:
 Server Infrastructures, Cloud Platforms, Virtualization, Network Administration, Data Storage & Backup Solutions, Disaster Recovery
@@ -48,9 +48,9 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
 ## 🤝 Interpersonal & Soft Skills:
 
 - Stakeholder management, User Support and empathy, Analytical and Creative problem solver, Corporate Strategy Formulation
-- Cross-functional Collaboration, Technical Communication, Change management communication, Team leadership & mentoring
+- Cross-functional Collaboration, Technical Communication, Change management communication, Team leadership & Mentoring
 - Incident & Crisis communication, Business Intelligence, Customer Relations Management, Communication (Written, Verbal, Presentation)
-- Report Writing, Vendor & Service provider coordination, User Training, documentation, and Mentorship, People/Conflict resolution.
+- Report Writing, Vendor & Service provider coordination, User Training, Documentation, and People/Conflict resolution.
 
   
 ## 💼 Applications and Tools:
