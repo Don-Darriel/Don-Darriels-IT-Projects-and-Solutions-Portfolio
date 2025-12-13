@@ -56,7 +56,7 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
 ## 💼 Applications and Tools:
 
 - ## Virtualization Platforms:
-  Hyper-V, VMware, VirtualBox
+  Hyper-V, VMware, VirtualBox, KVM
   
 - ## Server & End-User Technologies:
   Windows Server, Active Directory/Group Policy, Client OSs, macOS Administration, Linux
