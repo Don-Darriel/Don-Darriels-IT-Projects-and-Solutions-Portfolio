@@ -74,7 +74,7 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
   GA4, HubSpot, Slack, Google Workspace, Salesforce
   
 - ## Network & Security Tools:
-  VPN tools, Nessus, OpenVAS, Qualys, Solarwinds, Wireshark, Fortinet, pfSense, nNmap
+  VPN tools, Nessus, OpenVAS, Qualys, Solarwinds, Wireshark, Fortinet, pfSense, Nmap
   
 - ## Identity & Acces Management:
   Microsoft AD, Azure AD, Okta, GCP IAM, AWS IAM
@@ -98,8 +98,7 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
   Windows DPM, Veeam, NetBackup, Acronis, Commvault
  
 - ## Endpoint Management: 
-  Intune Endpoint & Configuration Management, Symantec Endpoint Management,
-ManageEngine, VMware Workspace One
+  Intune Endpoint & Configuration Management, Symantec Endpoint Management, ManageEngine, VMware Workspace One
   
 - ## Social Media & Digital Management:
   Google Business, Meta Business suite, Canva, SEMrush, LinkedIn 
@@ -107,11 +106,11 @@ ManageEngine, VMware Workspace One
    
 ## ✨ Interests: 
 
-- Systems support, Solutions architectures, Cybersecurity & threat prevention, IT ticketing systems
-- Server/Network infrastructure and architecture, Project management, Systems administration & automation
-- Cloud computing, Virtualisation & Containerisation, IT service management (ITSM) & support innovation
-- Scripting and automation, Web development, Digital transformation & infrastructure modernisation, AI-driven IT tools & automation platforms
-- Data analytics & visualisation, Enterprise software deployment & lifecycle management, Monitoring & observability tools, Edge computing & IoT technologies, and Innovations.
+- Systems support, Solutions architectures, Cybersecurity & Threat prevention, IT ticketing systems
+- Server/Network infrastructures and architectures, Project management, Systems administration & automation
+- Cloud computing, Virtualisation & Containerisation, IT service management (ITSM) & Support innovation
+- Scripting and automation, Web development, Digital transformation & Infrastructure modernisation, AI-driven IT tools & Automation platforms
+- Data analytics & visualisation, Enterprise software deployment & lifecycle management, Monitoring & Observability tools, Edge computing & IoT technologies, and Innovations.
 
 
 ## 💻 Languages: 
@@ -187,5 +186,5 @@ ManageEngine, VMware Workspace One
 
 ## 📫 Contacts
 
-- Email: darrielm@gmail.com /    darrieltech@outlook.com  
+- Email: darrielm@gmail.com / darrieltech@outlook.com  
 - LinkedIn: https://www.linkedin.com/in/don-darriel
