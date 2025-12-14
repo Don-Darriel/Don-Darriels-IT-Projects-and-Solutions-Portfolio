@@ -108,7 +108,7 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
 
 - Systems support, Solutions architectures, Cybersecurity & Threat prevention, IT ticketing systems
 - Server/Network infrastructures and architectures, Project management, Systems administration & automation
-- Cloud computing, Virtualisation & Containerisation, IT service management (ITSM) & Support innovation, OT Infrastructure Library (ITIL)
+- Cloud computing, Virtualisation & Containerisation, IT service management (ITSM) & Support innovation, IT Infrastructure Library (ITIL)
 - Scripting and automation, Web development, Digital transformation & Infrastructure modernisation, AI-driven IT tools & Automation platforms
 - Data analytics & visualisation, Enterprise software deployment & lifecycle management, Monitoring & Observability tools, Edge computing & IoT technologies, and Innovations.
 
