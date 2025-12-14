@@ -21,7 +21,7 @@ Throughout my career, I’ve developed a strong foundation in IT strategy, cloud
 ## 🔧 Tech Skills
 
 - ## IT Governance & Management:
-IT Risk Management, Business Continuity Planning, IT Service Management (ITSM), Systems Integration, Incident & Problem Management, Compliance & Regulatory Standards
+IT Risk Management, Business Continuity Planning, IT Service Management (ITSM), IT Infrastructure Library (ITIL), Systems Integration, Incident & Problem Management, Compliance & Regulatory Standards
 
 - ## Enterprise Architectures:
  Frameworks (Business, Data, Technology & Application architectures), Methodologies (Architecture Development Methods, Requirements Management & Architecture Governance), Service Oriented Architectures, Event-driven Architectures
@@ -108,7 +108,7 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
 
 - Systems support, Solutions architectures, Cybersecurity & Threat prevention, IT ticketing systems
 - Server/Network infrastructures and architectures, Project management, Systems administration & automation
-- Cloud computing, Virtualisation & Containerisation, IT service management (ITSM) & Support innovation
+- Cloud computing, Virtualisation & Containerisation, IT service management (ITSM) & Support innovation, OT Infrastructure Library (ITIL)
 - Scripting and automation, Web development, Digital transformation & Infrastructure modernisation, AI-driven IT tools & Automation platforms
 - Data analytics & visualisation, Enterprise software deployment & lifecycle management, Monitoring & Observability tools, Edge computing & IoT technologies, and Innovations.
 
