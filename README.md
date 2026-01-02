@@ -223,13 +223,9 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
   (Sasria): NUTANIX Hyper Converged Infrastructure [HCI] & Infrastructure Re-Platform solution.
 
   - *Nutanix Hyper Converged Infrastructure (HCI) Implementation*: Design and deploy a Nutanix HCI solution to simplify infrastructure management, improve scalability, and increase efficiency.
-
   - *Infrastructure Re-Platform Solution*: Migrate existing infrastructure to a modern, scalable, and secure platform, leveraging Nutanix HCI and other technologies to improve performance and reliability.
-
   - *Active Directory Identity System Re-design*: Redesign and implement a modern Active Directory infrastructure to improve identity management, security, and authentication processes.
-
   - *Server Platform Upgrade*: Upgrade server platforms to ensure compatibility with the new Nutanix HCI solution and improve overall infrastructure performance, security, and reliability.
-
   - *Integration and Testing*: Integrate the Nutanix HCI solution with existing infrastructure components, including Active Directory, and perform thorough testing to ensure a smooth transition and optimal performance.
 
 - **Server Infrastructure Project [2019]**
