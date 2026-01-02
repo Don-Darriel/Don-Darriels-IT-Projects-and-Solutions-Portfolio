@@ -301,7 +301,7 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
 - IBM ( 2x Enterprise Storage)
 - CompTIA (A+, Network+, Security+)
 - Huawei (HCIA, 5x HCS)
-- Information Communication Technology (College Diploma, Advanced Diploma)
+- Information Communication Technology - ICT (College Diploma, Advanced Diploma)
 
 
 ## 📫 Contacts
