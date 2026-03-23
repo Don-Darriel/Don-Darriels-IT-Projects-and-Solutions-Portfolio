@@ -1,5 +1,5 @@
 # #  👋 Hi, I'm Don-Darriel
-## IT Specialist / Professional - Systems | Enterprise Architectures & Infrastructures | Development | Cloud | Support | Tech Enthusiast.
+## IT Specialist / Professional - Business Strategy | Enterprise Architectures & Infrastructures | Cloud Solutions | Web Development | Tech Enthusiast.
 
 Welcome to my portfolio! I am an IT specialist with experience in designing, developing, and supporting technology solutions that improve efficiency, reliability, and user experience. I enjoy learning new tools, technical problem solving, improving system efficiency, and creating clean, functional projects.
 
