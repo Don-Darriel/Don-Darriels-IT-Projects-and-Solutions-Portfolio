@@ -36,7 +36,7 @@ Web & Application Development, Database Management, Design & Modelling, CRM Solu
 Information Security, Cybersecurity Protocols, Vulnerability Assessment, Penetration Testing, Artificial Intelligence (AI) / Machine Learning
 
 - ## Project Management:
-PRINCE2, Agile, Waterfall, Project Planning, Risk Management
+PRINCE2, Agile, Waterfall, Project Coordination and Execution, Risk Management
 
 - ## Customer Relations Management:
 Customer Service, Account Management & Stakeholder Management 
@@ -72,6 +72,9 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
   
 - ## SaaS & Cloud applications:
   Google Search Console, Bing Webmaster tool, Google Analytics (GA4), SEMrush, Ahrefs, ScreamingFrog, Lowfruits, SE Ranking, HubSpot, Slack, Google Workspace, Salesforce
+
+- ## Project Management:
+  Microsoft Project, Jira, ClickUp, Asana, Notion, Workspace
   
 - ## Network & Security Tools:
   VPN tools, Nessus, OpenVAS, Qualys, Solarwinds, Wireshark, Fortinet, pfSense, Nmap
@@ -103,8 +106,6 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
 - ## Social Media & Digital Management:
   Google Business, Meta Business suite, Canva, SEMrush, LinkedIn 
 
-- ## Project Management:
-  Microsoft Project, Jira, ClickUp, Asana, Notion, Workspace
    
 ## ✨ Interests: 
 
