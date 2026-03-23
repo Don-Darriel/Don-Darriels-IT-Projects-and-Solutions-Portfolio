@@ -65,13 +65,13 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
   Azure, AWS, Google Cloud, Huawei Cloud
   
 - ## Web & CMS Platforms:
-  Wordpress, WooCommerce, Wix, Shopify, cPanel, Cloudflare, GEO/SEO & Analytics tools
+  Wordpress, WooCommerce, Wix, Shopify, cPanel, Cloudflare, GEO/SEO & Analytics tools, Bing Webmaster tools
 
 - ## Productivity Suites:
 - Microsoft 365, LibreOffice, OpenOffice, Google Workspace, Zoho Office, WPS Office
   
 - ## SaaS & Cloud applications:
-  Google Search Console, Google Analytics (GA4), SEMrush, Ahrefs, ScreamingFrog, Lowfruits, SE Ranking, HubSpot, Slack, Google Workspace, Salesforce
+  Google Search Console, Bing Webmaster tool, Google Analytics (GA4), SEMrush, Ahrefs, ScreamingFrog, Lowfruits, SE Ranking, HubSpot, Slack, Google Workspace, Salesforce
   
 - ## Network & Security Tools:
   VPN tools, Nessus, OpenVAS, Qualys, Solarwinds, Wireshark, Fortinet, pfSense, Nmap
