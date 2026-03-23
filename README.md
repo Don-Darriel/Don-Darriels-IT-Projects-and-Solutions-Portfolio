@@ -103,6 +103,8 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
 - ## Social Media & Digital Management:
   Google Business, Meta Business suite, Canva, SEMrush, LinkedIn 
 
+- ## Project Management:
+  Microsoft Project, Jira, ClickUp, Asana, Notion, Workspace
    
 ## ✨ Interests: 
 
