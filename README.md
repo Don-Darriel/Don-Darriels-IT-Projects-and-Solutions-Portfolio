@@ -30,7 +30,7 @@ IT Risk Management, Business Continuity Planning, IT Service Management (ITSM), 
 Server Infrastructures, Cloud Platforms, Virtualization, Network Administration, Data Storage & Backup Solutions, Disaster Recovery
 
 - ## Development & Analytics:
-Web & Application Development, Database Management, Design & Modelling, CRM Solutions, E-commerce Platforms, Search Engine Optimization (SEO), Google Analytics, Business Intelligence (BI) Tools
+Web & Application Development, Database Management, Design & Modelling, CRM Solutions, E-commerce Platforms, Search Engine Optimization (SEO), Google Search Console, Google Analytics, SEMrush, Ahrefs, Bing Webmaster tools, Business Intelligence (BI) Tools
 
 - ## Security & Emerging Technologies:
 Information Security, Cybersecurity Protocols, Vulnerability Assessment, Penetration Testing, Artificial Intelligence (AI) / Machine Learning
@@ -65,13 +65,13 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
   Azure, AWS, Google Cloud, Huawei Cloud
   
 - ## Web & CMS Platforms:
-  Wordpress, WooCommerce, Wix, Shopify, cPanel, Cloudflare, SEO & Analytics tools
+  Wordpress, WooCommerce, Wix, Shopify, cPanel, Cloudflare, GEO/SEO & Analytics tools
 
 - ## Productivity Suites:
 - Microsoft 365, LibreOffice, OpenOffice, Google Workspace, Zoho Office, WPS Office
   
 - ## SaaS & Cloud applications:
-  Google Analytics (GA4), HubSpot, Slack, Google Workspace, Salesforce
+  Google Search Console, Google Analytics (GA4), SEMrush, Ahrefs, ScreamingFrog, Lowfruits, SE Ranking, HubSpot, Slack, Google Workspace, Salesforce
   
 - ## Network & Security Tools:
   VPN tools, Nessus, OpenVAS, Qualys, Solarwinds, Wireshark, Fortinet, pfSense, Nmap
