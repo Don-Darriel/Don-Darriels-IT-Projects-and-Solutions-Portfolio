@@ -59,7 +59,7 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
   Hyper-V, VMware, VirtualBox, KVM
   
 - ## Server & End-User Technologies:
-  Windows Server, Active Directory/Group Policy, Client OSs, macOS Administration, Linux
+  Windows Server, Active Directory/Group Policy, Client OSs, Microsoft Endpoint Configuration Manager (SCCM), macOS Administration, Linux
   
 - ## Cloud Platforms:
   Azure, AWS, Google Cloud, Huawei Cloud
@@ -92,13 +92,13 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
   Google Forms, SurveyMonkey, Typeform, JotForm, Microsoft Forms, Zoho survey
   
 - ## IT Ticketing Systems:
-  SCSM, BMC Remedy, ServiceNow, Zendesk, Jira, SpiceWorks
+  Microsoft SCSM, ServiceNow, Zendesk, Jira, SpiceWorks, BMC Remedy
 
 - ## Automation & Scripting:
   PowerShell, Zapier, CLI scripting, Bash Shell Scripting 
   
 - ## Backup & Recovery Tools:
-  Windows DPM, Veeam, NetBackup, Acronis, Commvault
+  Microsoft DPM, Veeam, NetBackup, Acronis, Commvault
  
 - ## Endpoint Management: 
   Intune Endpoint & Configuration Management, Symantec Endpoint Management, Microsoft Defender for Endpoint, Jamf, ManageEngine, VMware Workspace One
@@ -241,7 +241,7 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
   - *Testing and Validation*: Perform thorough testing and validation to ensure the HA solution meets business requirements and is functioning as expected.
 
 - **ITSM Cloud Project [2018/9]**
-  City of Pretoria/Tshwane Metropolitan Municipality (CoT): On-premise Private Cloud for an IT Service Management and Operations (SCSM/SCOM)solution.
+  City of Pretoria/Tshwane Metropolitan Municipality (CoT): On-premise Private Cloud for an IT Service Management and Operations (System Centre Service Manager - SCSM/ System Centre Operations Manager - SCOM)solution.
 
   - *Private Cloud Deployment*: Design and deploy an on-premise private cloud infrastructure for the ITSM solution.
   - *Implement SCSM*: Implement System Centre Service Manager to automate and streamline IT service management processes.
@@ -286,12 +286,12 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
   - *Recommendations and Reporting*: Provide detailed findings, architectural drawings, reports, and recommendations for improvement.
 
 - **Private Cloud Project [2016]**
-  Bergrivier Municipality: Deploy & Implement On-premise Private Cloud (SCCM) solution.
+  Bergrivier Municipality: Deploy & Implement On-premise Private Cloud (Microsoft Endpoint Configuration Manager (SCCM) solution.
 
   - *Private Cloud Deployment*: Design and deploy a secure and scalable on-premise private cloud infrastructure.
-  - *SCCM Implementation*: Implement System Centre Configuration Manager to streamline IT operations and enhance service delivery.
-  - *Configuration and Customization*: Configure and customize SCCM to meet the specific needs of Bergrivier Municipality.
-  - *Integration*: Integrate SCCM with existing infrastructure, systems, and applications to ensure seamless operations.
+  - *Microsoft Endpoint Configuration Manager - SCCM Implementation*: Implement MECM/System Centre Configuration Manager to streamline IT operations and enhance service delivery.
+  - *Configuration and Customization*: Configure and customize MECM/SCCM to meet the specific needs of Bergrivier Municipality.
+  - *Integration*: Integrate MECM/SCCM with existing infrastructure, systems, and applications to ensure seamless operations.
   - *Knowledge Transfer and Support*: Provide comprehensive training and support to municipal staff to ensure smooth handover and ongoing management.
 
 ## 🎓 Certifications & Education
