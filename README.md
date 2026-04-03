@@ -230,7 +230,16 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
   - *Active Directory Identity System Re-design*: Redesign and implement a modern Active Directory infrastructure to improve identity management, security, and authentication processes.
   - *Server Platform Upgrade*: Upgrade server platforms to ensure compatibility with the new Nutanix HCI solution and improve overall infrastructure performance, security, and reliability.
   - *Integration and Testing*: Integrate the Nutanix HCI solution with existing infrastructure components, including Active Directory, and perform thorough testing to ensure a smooth transition and optimal performance.
+ 
+- **Microsoft Endpoint Configuration Manager / Sysem Centre Configuration Manager Training [2019]**
+  (Sasria): MECM - SCCM Corporate Training.
 
+- *MECM/SCCM Architecture and Infrastructure*: Understand Sasria's MECM/SCCM architecture, including site structure, boundaries, and roles.
+- *Device Management*: Manage and secure devices, including Windows, macOS, and mobile devices.
+- *Software Deployment*: Master application deployment, software updates, and operating system deployment for Sasria's environment.
+- *Compliance and Security*: Configure compliance settings, monitor security, and manage endpoint protection for devices.
+- *Reporting and Troubleshooting*: Use MECM reporting and troubleshooting tools to monitor and optimize Sasria's environment.
+  
 - **Server Infrastructure Project [2019]**
   (SACAP): Server Infrastructure High Availability [HA] solution.
 
