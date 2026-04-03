@@ -234,11 +234,11 @@ Collaboration Platforms, Scripting & Automation, API Integration, IT Documentati
 - **Microsoft Endpoint Configuration Manager / Sysem Centre Configuration Manager Training [2019]**
   (Sasria): MECM - SCCM Corporate Training.
 
- - *MECM/SCCM Architecture and Infrastructure*: Understand Sasria's MECM/SCCM architecture, including site structure, boundaries, and roles.
- - *Device Management*: Manage and secure devices, including Windows, macOS, and mobile devices.
- - *Software Deployment*: Master application deployment, software updates, and operating system deployment for Sasria's environment.
- - *Compliance and Security*: Configure compliance settings, monitor security, and manage endpoint protection for devices.
- - *Reporting and Troubleshooting*: Use MECM reporting and troubleshooting tools to monitor and optimize Sasria's environment.
+  - *MECM/SCCM Architecture and Infrastructure*: Understand Sasria's MECM/SCCM architecture, including site structure, boundaries, and roles.
+  - *Device Management*: Manage and secure devices, including Windows, macOS, and mobile devices.
+  - *Software Deployment*: Master application deployment, software updates, and operating system deployment for Sasria's environment.
+  - *Compliance and Security*: Configure compliance settings, monitor security, and manage endpoint protection for devices.
+  - *Reporting and Troubleshooting*: Use MECM reporting and troubleshooting tools to monitor and optimize Sasria's environment.
   
 - **Server Infrastructure Project [2019]**
   (SACAP): Server Infrastructure High Availability [HA] solution.
